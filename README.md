@@ -1,7 +1,7 @@
 # 🚀 LLM-Assisted BDD Functional Testing Framework
 
 ### **NTT DATA Internship Case Study | 2026 Batch**
-**Candidate:** [Rachakonda Shrutik Sai]  
+**Candidate:** Rachakonda Shrutik Sai  
 **Position:** Internship Case Study - Case Study Round  
 **Submission Date:** January 10, 2026
 
@@ -100,8 +100,8 @@ playwright install chromium
 
 ## 👨‍💻 Author
 
-**[Rachakonda Shrutik Sai]**  
-[shrutiksai14@gmail.com]  
+**Rachakonda Shrutik Sai**  
+shrutiksai14@gmail.com  
 
 ---
 
